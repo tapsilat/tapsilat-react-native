@@ -3,6 +3,7 @@
   "version": "2025.12.8",
   "main": "index.js",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",

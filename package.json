@@ -2,6 +2,7 @@
   "name": "@tapsilat/tapsilat-react-native",
   "version": "2025.12.7",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",

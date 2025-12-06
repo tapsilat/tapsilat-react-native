@@ -6,6 +6,13 @@ This Expo-powered React Native app demonstrates how to integrate the [`@tapsilat
 - Hooks (`useCreateOrder`, `useOrderStatus`) that wrap common payment lifecycle actions with loading/error state.
 - A demo screen showing order creation, hosted checkout deep-linking, and status polling flows you can adapt in your product.
 
+## Installation
+
+```bash
+npm i @tapsilat/tapsilat-react-native
+```
+
+
 ## Getting started
 
 ```bash

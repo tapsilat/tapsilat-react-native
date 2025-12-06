@@ -1,9 +1,12 @@
 {
   "name": "@tapsilat/tapsilat-react-native",
-  "version": "2025.12.8",
+  "version": "2025.12.9",
   "main": "index.js",
   "private": false,
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tapsilat/tapsilat-react-native"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
@@ -14,7 +17,7 @@
   },
   "dependencies": {
     "@tapsilat/tapsilat-js": "^2025.12.5",
-    "expo": "^52.0.6",
+    "expo": "^54.0.27",
     "expo-constants": "~16.0.2",
     "expo-status-bar": "~2.0.0",
     "react": "19.2.1",

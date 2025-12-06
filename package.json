@@ -1,5 +1,5 @@
 {
-  "name": "tapsilat-react-native",
+  "name": "@tapsilat/tapsilat-react-native",
   "version": "2025.12.6",
   "main": "index.js",
   "scripts": {

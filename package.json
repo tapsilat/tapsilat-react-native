@@ -16,7 +16,7 @@
     "@tapsilat/tapsilat-js": "^2025.12.5",
     "expo": "^52.0.6",
     "expo-constants": "~16.0.2",
-    "expo-status-bar": "~2.0.0",
+    "expo-status-bar": "~3.0.9",
     "react": "19.2.1",
     "react-native": "0.82.1",
     "react-native-gesture-handler": "~2.29.1",

@@ -1,7 +1,6 @@
 {
   "name": "tapsilat-react-native",
-  "version": "0.1.0",
-  "private": true,
+  "version": "2025.12.6",
   "main": "index.js",
   "scripts": {
     "start": "expo start",

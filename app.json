@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "tapsilat-react-native",
+    "slug": "tapsilat-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "tapsilat": {
+        "baseURL": "https://panel.tapsilat.dev/api/v1"
+      }
+    }
+  }
+}
